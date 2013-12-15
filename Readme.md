@@ -6,11 +6,12 @@
 
 Description
 ========
-TFT_2.2-inch 是一個 2.2 吋的 TFT LCD 模組，透過 SPI 傳輸資料，上面另外帶有 SD 卡座，共用相同的 SPI。
+TFT_2.2-inch 是一個 2.2 吋的 TFT LCD 模組，透過 SPI 傳輸資料，  
+上面另外帶有 SD 卡座，共用相同的 SPI。
 
 Hardware
 ========
-* 控制器 : ILI9341
+* 控制器 : [ILI9341](http://www.ilitek.com/index.asp)
 * 解析度 : 320*240
 * 其他外接 : SD ( SPI )
 * PCB 尺寸 : 67.8 * 40.3mm
