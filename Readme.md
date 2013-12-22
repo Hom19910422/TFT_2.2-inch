@@ -2,14 +2,14 @@
 ========
 * Author  : [Hom](https://github.com/Hom19910422)
 * Version : v1.0
-* Update  : 2013/12/19
+* Update  : 2013/12/23
 
 Description
 ========
 TFT_2.2-inch 是一個 2.2 吋的 TFT LCD 模組，透過 SPI 傳輸資料，  
 上面另外帶有 SD 卡座，共用相同的 SPI。
 
-*** 目前已測試完螢幕顯示，尚未測試 亮度調節和 SD 卡。
+*** 尚未測試 SD 卡，其他都可正常運作。
 
 Hardware
 ========
@@ -27,6 +27,7 @@ View
 ========
 <img src="https://lh4.googleusercontent.com/-CPXIUmrmvjU/UrHPkLeCZCI/AAAAAAAAFpQ/41oxILISOl0/s800/DSC_1777.jpg" height="450" width="800" />
 <img src="https://lh5.googleusercontent.com/-JZaVyoCtw_0/UrHPltypjrI/AAAAAAAAFpk/BgCU5atunPA/s800/DSC_1788.jpg" height="450" width="800" />
+<img src="https://lh5.googleusercontent.com/-L_7nmFe7pD4/UrcuXjkv5aI/AAAAAAAAF3c/7HaI5Mj9igY/s800/DSC_1860.jpg" height="450" width="800" />
 <img src="https://lh5.googleusercontent.com/-tE2Jrbsds10/UrHPkJtzHDI/AAAAAAAAFpM/Vm4DKDGqi_8/s800/DSC_1779.jpg" height="450" width="800" />
 <img src="https://lh6.googleusercontent.com/-bMbZWNWM4Pg/UrHPlDRI_kI/AAAAAAAAFpw/0zhix25JHog/s800/DSC_1782.jpg" height="450" width="800" />
 <img src="https://lh4.googleusercontent.com/-IcwNauhywHc/UrHPlZ6xvgI/AAAAAAAAFqE/IzKU_Y8VwtE/s800/DSC_1786.jpg" height="450" width="800" />
