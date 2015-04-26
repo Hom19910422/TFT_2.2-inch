@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](http://about.me/Hom)
 * Version : v1.2
-* Update  : 2015/02/25
+* Update  : 2015/04/26
 
 Description
 ========
@@ -46,3 +46,7 @@ View
 Schematic
 ========
 <img src="https://lh6.googleusercontent.com/-wd8W0QbFmVk/U_Cld9vW1oI/AAAAAAAAKlc/9Wgle1PK5iU/s1200/Sch_TFT_2.2-inch_ILI9341.png" />
+
+Get it
+========
+[露天拍賣 Ruten](http://goods.ruten.com.tw/item/show?21312238084352)  
